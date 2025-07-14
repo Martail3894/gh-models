@@ -23,6 +23,7 @@ If you've previously installed the `gh models` extension and want to update to t
 gh extension upgrade github/gh-models
 ```
 
+
 ### Examples
 
 #### Listing models
